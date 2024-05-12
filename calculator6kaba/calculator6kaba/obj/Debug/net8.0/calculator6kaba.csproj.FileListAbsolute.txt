@@ -1,0 +1,14 @@
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\bin\Debug\net8.0\calculator6kaba.exe
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\bin\Debug\net8.0\calculator6kaba.deps.json
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\bin\Debug\net8.0\calculator6kaba.runtimeconfig.json
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\bin\Debug\net8.0\calculator6kaba.dll
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\bin\Debug\net8.0\calculator6kaba.pdb
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\obj\Debug\net8.0\calculator6kaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\obj\Debug\net8.0\calculator6kaba.AssemblyInfoInputs.cache
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\obj\Debug\net8.0\calculator6kaba.AssemblyInfo.cs
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\obj\Debug\net8.0\calculator6kaba.csproj.CoreCompileInputs.cache
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\obj\Debug\net8.0\calculator6kaba.dll
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\obj\Debug\net8.0\refint\calculator6kaba.dll
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\obj\Debug\net8.0\calculator6kaba.pdb
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\obj\Debug\net8.0\calculator6kaba.genruntimeconfig.cache
+C:\Users\KingSlayer\Desktop\laba6isis\lab6isiss\calculator6kaba\calculator6kaba\obj\Debug\net8.0\ref\calculator6kaba.dll
