@@ -38,7 +38,7 @@ namespace SimpleCalculator
                     }
                     else
                     {
-                        Console.WriteLine("Ошибка: деление на ноль.");
+                        Console.WriteLine("Ошибка: деление на ноль....");
                         return;
                     }
                     break;
