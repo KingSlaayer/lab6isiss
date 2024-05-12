@@ -11,9 +11,9 @@ namespace SimpleCalculator
             Console.Write("Введите первое число: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("Введите оператор (+, -, *, /): ");
+            Console.Write("Введите оператор (+, -, *, /, ^): ");
             char operation = Console.ReadKey().KeyChar;
-            Console.WriteLine();  // Перенос строки после оператора
+            Console.WriteLine(); // Перенос строки после оператора
 
             Console.Write("Введите второе число: ");
             double num2 = Convert.ToDouble(Console.ReadLine());
@@ -38,9 +38,12 @@ namespace SimpleCalculator
                     }
                     else
                     {
-                        Console.WriteLine("Ошибка: деление на ноль....");
+                        Console.WriteLine("Ошибка: деление на ноль.");
                         return;
                     }
+                    break;
+                case '^':
+                    result = Math.Pow(num1, num2);
                     break;
                 default:
                     Console.WriteLine("Неверный оператор.");
@@ -51,4 +54,3 @@ namespace SimpleCalculator
         }
     }
 }
-
